@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.time.Year;
 
 //EXERCÍCIO 2 - Cálculo de salário (Usando double) com regras condicionais
 public class Exercicio02 {
