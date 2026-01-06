@@ -3,7 +3,7 @@ import java.time.Year;
 
 //EXERCÍCIO 1 - Entrada de dados (Scanner) e estruturas condicionais (If e else)
 
-public class Main {
+public class Exercicio01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
