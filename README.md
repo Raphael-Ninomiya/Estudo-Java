@@ -1,18 +1,21 @@
-# Estudo-Java
-Aqui colocarei alguns exercícios em Java que estou aprendendo. Comecei apenas com conhecimentos básicos e por isso criei este repositório, para mostrar meu progresso.
+Repositório criado para armazenar exercícios desenvolvidos durante meu aprendizado em Java, iniciando pelos conceitos básicos e evoluindo gradualmente.
 
-//EXERCÍCIO 0 Primeira introdução ao Sout e If else no java
+## Exercícios
+- Exercício 0 – Primeira introdução ao `System.out` e `if/else`
+- Exercício 1 – Entrada de dados com `Scanner` e estruturas condicionais
+- Exercício 2 – Cálculo de salário usando `double` e regras condicionais
+- Exercício 3 – Métodos, parâmetros e retorno
+- Exercício 4 – Métodos com múltiplos parâmetros e reutilização
+- Exercício 5 – Estrutura `while` e validação de entrada
+- Exercício 6 – Arrays e laço `for`
+- Exercício 7 – Sistema simples de alunos
 
-//EXERCÍCIO 1 - Entrada de dados (Scanner) e estruturas condicionais (If e else)
+## Estrutura do projeto
+Os exercícios estão organizados em arquivos separados, um para cada exercício.
 
-//EXERCÍCIO 2 - Cálculo de salário (Usando double) com regras condicionais
+## Como executar
+Cada exercício possui uma classe com método `main`.
 
-//EXERCÍCIO 3 - Métodos, parâmetros e retorno
-
-//EXERCÍCIO 4 - Métodos com múltiplos parâmetros e reutilização
-
-//EXERCÍCIO 5 - While e validação de entrada
-
-//EXERCÍCIO 6 - Arrays e laço for
-
-//EXERCÍCIO 7 — Sistema simples de alunos
+Exemplo:
+javac Exercicio03.java  
+java Exercicio03
